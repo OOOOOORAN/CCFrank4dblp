@@ -105,6 +105,7 @@
         "https://scholar.google.sk/*",
         "https://www.connectedpapers.com/main/*",
         "https://www.webofscience.com/*",
+        "https://webofscience.clarivate.cn/*",
         "https://www.semanticscholar.org/*"
       ],
       "css": ["css/style.css", "css/filter.css"],

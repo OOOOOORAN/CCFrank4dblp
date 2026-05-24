@@ -12,7 +12,7 @@ if (window.location.hostname.startsWith("dblp")) {
   connectedpapers.run();
 } else if (window.location.hostname.includes("semanticscholar")) {
   semanticscholar.run();
-} else if (window.location.hostname.includes("webofscience")) {
+} else if (window.location.hostname.includes("webofscience") || window.location.hostname.includes("clarivate")) {
   wos.run();
 }
 
