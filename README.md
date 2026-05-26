@@ -75,6 +75,12 @@ Clone CCFrank to a directory.
 
 ## What's New
 
+**Version 4.6.1**
+
+> May 24, 2026
+
+1. 感谢 @sheng-zi-yang 反馈，修复了 Web of Science 在中国跳转至 webofscience.clarivate.cn 后不显示 CCF 等级的问题。
+
 **Version 4.6.0**
 
 > Apr 6, 2026
